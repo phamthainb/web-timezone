@@ -1,1 +1,1 @@
-cd app && ./mvnw spring-boot:run
+cd ~/web-timezone/app && sudo ./mvnw spring-boot:run

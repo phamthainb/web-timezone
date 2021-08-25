@@ -1,1 +1,1 @@
-cd app &&  mvn spring-boot:run
+cd ~/web-timezone/app && mvn spring-boot:run
